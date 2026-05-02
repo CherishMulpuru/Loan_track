@@ -335,7 +335,3 @@ DB_PASSWORD         (set in ECS task definition / Secrets Manager)
 | Containers | Docker, Docker Compose |
 
 ---
-
-## License
-
-MIT
